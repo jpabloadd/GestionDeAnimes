@@ -1,0 +1,21 @@
+[2026-02-05 12:17:44] AÑADIDO: Naruto entró a la lista de espera.
+[2026-02-05 12:18:45] AÑADIDO: Dragon Ball Z entró a la lista de espera.
+[2026-02-07 17:28:16] AÑADIDO: Shingeki no Kyojin: The Final Season entró a la lista de espera.
+[2026-02-09 23:20:35] AÑADIDO: Kimetsu no Yaiba entró a la lista de espera.
+[2026-02-09 23:20:50] AÑADIDO: Dr. Stone entró a la lista de espera.
+[2026-02-09 23:22:55] FINALIZADO: Naruto puntuado con 8.5 y sacado de espera.
+[2026-02-09 23:23:15] PUNTUADO: Naruto actualizado con nota 8.0.
+[2026-02-09 23:24:25] AÑADIDO: Jujutsu Kaisen entró a la lista de espera.
+[2026-02-09 23:24:57] AÑADIDO: Ansatsu Kyoushitsu entró a la lista de espera.
+[2026-02-09 23:54:59] AÑADIDO: Brand New Story entró a la lista de espera.
+[2026-02-10 00:15:09] FINALIZADO: Kimetsu no Yaiba puntuado con 7.0 y sacado de espera.
+[2026-02-10 00:23:59] MANUAL: Naruto movido a lista de espera.
+[2026-02-10 00:28:03] FINALIZADO: Dragon Ball Z puntuado con 6.0 y sacado de espera.
+[2026-02-10 00:29:34] MANUAL: Naruto eliminado de lista de espera.
+[2026-02-10 00:30:09] PUNTUADO: Steins;Gate actualizado con nota 4.0.
+[2026-02-10 00:30:47] MANUAL: Blue Lock eliminado de lista de espera.
+[2026-02-10 00:31:31] MANUAL: Dr. Stone movido a lista de espera.
+[2026-02-10 00:31:58] MANUAL: Brand New Story eliminado de lista de espera.
+[2026-02-11 12:20:12] AÑADIDO: Naruto entró a la lista de espera.
+[2026-02-11 12:20:42] FINALIZADO: Shingeki no Kyojin: The Final Season puntuado con 5.0 y sacado de espera.
+[2026-02-11 12:21:03] MANUAL: Blue Lock movido a lista de espera.

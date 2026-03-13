@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "nombre": "Naruto",
+        "autor": "Studio Pierrot",
+        "fecha": "2002",
+        "capitulos": 220,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg",
+        "puntuacion": 8.0,
+        "en_lista_espera": false
+    },
+    {
+        "id": 2,
+        "nombre": "Dragon Ball Z",
+        "autor": "Toei Animation",
+        "fecha": "1989",
+        "capitulos": 291,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1277/142022l.jpg",
+        "puntuacion": 6.0,
+        "en_lista_espera": false
+    },
+    {
+        "id": 3,
+        "nombre": "Shingeki no Kyojin: The Final Season",
+        "autor": "MAPPA",
+        "fecha": "2020",
+        "capitulos": 16,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
+        "puntuacion": 5.0,
+        "en_lista_espera": false
+    },
+    {
+        "id": 4,
+        "nombre": "Kimetsu no Yaiba",
+        "autor": "ufotable",
+        "fecha": "2019",
+        "capitulos": 26,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
+        "puntuacion": 7.0,
+        "en_lista_espera": false
+    },
+    {
+        "id": 5,
+        "nombre": "Dr. Stone",
+        "autor": "TMS Entertainment",
+        "fecha": "2019",
+        "capitulos": 24,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1613/102576l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 6,
+        "nombre": "Jujutsu Kaisen",
+        "autor": "MAPPA",
+        "fecha": "2020",
+        "capitulos": 24,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 7,
+        "nombre": "Ansatsu Kyoushitsu",
+        "autor": "Lerche",
+        "fecha": "2015",
+        "capitulos": 22,
+        "imagen": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 8,
+        "nombre": "One Piece",
+        "autor": "Toei Animation",
+        "fecha": "1999",
+        "capitulos": 1000,
+        "imagen": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "puntuacion": 9.0,
+        "en_lista_espera": false
+    },
+    {
+        "id": 9,
+        "nombre": "Death Note",
+        "autor": "Madhouse",
+        "fecha": "2006",
+        "capitulos": 37,
+        "imagen": "https://cdn.myanimelist.net/images/anime/9/9453l.jpg",
+        "puntuacion": 8.7,
+        "en_lista_espera": false
+    },
+    {
+        "id": 10,
+        "nombre": "Fullmetal Alchemist: Brotherhood",
+        "autor": "Bones",
+        "fecha": "2009",
+        "capitulos": 64,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1223/96541l.jpg",
+        "puntuacion": 9.1,
+        "en_lista_espera": false
+    },
+    {
+        "id": 11,
+        "nombre": "Tokyo Ghoul",
+        "autor": "Pierrot",
+        "fecha": "2014",
+        "capitulos": 12,
+        "imagen": "https://cdn.myanimelist.net/images/anime/5/64449l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 12,
+        "nombre": "Boku no Hero Academia",
+        "autor": "Bones",
+        "fecha": "2016",
+        "capitulos": 13,
+        "imagen": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 13,
+        "nombre": "Steins;Gate",
+        "autor": "White Fox",
+        "fecha": "2011",
+        "capitulos": 24,
+        "imagen": "https://cdn.myanimelist.net/images/anime/5/73199l.jpg",
+        "puntuacion": 4.0,
+        "en_lista_espera": false
+    },
+    {
+        "id": 14,
+        "nombre": "Cowboy Bebop",
+        "autor": "Sunrise",
+        "fecha": "1998",
+        "capitulos": 26,
+        "imagen": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "puntuacion": 8.8,
+        "en_lista_espera": false
+    },
+    {
+        "id": 15,
+        "nombre": "Chainsaw Man",
+        "autor": "MAPPA",
+        "fecha": "2022",
+        "capitulos": 12,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 16,
+        "nombre": "Blue Lock",
+        "autor": "Eight Bit",
+        "fecha": "2022",
+        "capitulos": 24,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1258/126929l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 17,
+        "nombre": "Sword Art Online",
+        "autor": "A-1 Pictures",
+        "fecha": "2012",
+        "capitulos": 25,
+        "imagen": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg",
+        "puntuacion": 7.5,
+        "en_lista_espera": false
+    },
+    {
+        "id": 18,
+        "nombre": "Haikyuu!!",
+        "autor": "Production I.G",
+        "fecha": "2014",
+        "capitulos": 25,
+        "imagen": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg",
+        "puntuacion": 8.6,
+        "en_lista_espera": false
+    },
+    {
+        "id": 19,
+        "nombre": "Neon Genesis Evangelion",
+        "autor": "Gainax",
+        "fecha": "1995",
+        "capitulos": 26,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "puntuacion": 8.5,
+        "en_lista_espera": false
+    },
+    {
+        "id": 20,
+        "nombre": "Vinland Saga",
+        "autor": "Wit Studio",
+        "fecha": "2019",
+        "capitulos": 24,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 21,
+        "nombre": "Spy x Family",
+        "autor": "Wit Studio",
+        "fecha": "2022",
+        "capitulos": 12,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    },
+    {
+        "id": 22,
+        "nombre": "Black Clover",
+        "autor": "Pierrot",
+        "fecha": "2017",
+        "capitulos": 170,
+        "imagen": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg",
+        "puntuacion": 8.1,
+        "en_lista_espera": false
+    },
+    {
+        "id": 23,
+        "nombre": "Brand New Story",
+        "autor": "Science SARU",
+        "fecha": "2019",
+        "capitulos": 1,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1218/101654l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": false
+    },
+    {
+        "id": 24,
+        "nombre": "Naruto",
+        "autor": "Studio Pierrot",
+        "fecha": "2002",
+        "capitulos": 220,
+        "imagen": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg",
+        "puntuacion": null,
+        "en_lista_espera": true
+    }
+]
